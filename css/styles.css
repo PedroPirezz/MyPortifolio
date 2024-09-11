@@ -11148,6 +11148,14 @@ body {
     padding: 5rem;
   }
 }
+.iconsize{
+  width: 50vw;
+  height: 50vh;
+}
+.btn-grow:hover{
+  transform: scale(1.1);
+  transition: 0.3s;
+}
 
 .signup-section {
   padding: 10rem 0;
